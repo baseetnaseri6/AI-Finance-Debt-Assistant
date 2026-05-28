@@ -1,5 +1,7 @@
 # AI Finance Debt Assistant 
 
+AI Finance Debt Assistant is a modern AI-powered financial management dashboard designed to help users track income, expenses, savings and debt in a smart and interactive way. The application combines modern SaaS-style UI design with AI-powered financial insights, analytics, PDF reporting and local AI chatbot assistance using Ollama.
+
 Modern AI-powered Finance & Debt Management Dashboard built with:
 
 * Streamlit
@@ -14,7 +16,7 @@ Modern AI-powered Finance & Debt Management Dashboard built with:
 
 ---
 
-# Features 
+# Features
 
 * Smart Budget Tracking
 * Debt Payoff Planner
@@ -39,6 +41,7 @@ Modern AI-powered Finance & Debt Management Dashboard built with:
 * Professional SaaS Style Design
 
 ---
+
 
 # Live Demo 
 
