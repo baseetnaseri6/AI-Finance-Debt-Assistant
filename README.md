@@ -44,13 +44,9 @@ Modern AI-powered Finance & Debt Management Dashboard built with:
 
 [Open AI Finance Debt Assistant](https://ai-finance-debt-assistant-gxycmo2kjjs7skywrug8mr.streamlit.app)
 
----
-
 Modern AI-powered finance dashboard with budgeting, debt planning, PDF reports, and Ollama AI chatbot.
 
-
-
-
+---
 
 # Screenshots 
 
