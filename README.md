@@ -1,8 +1,8 @@
 # AI Finance Debt Assistant 
 
-AI Finance Debt Assistant is a modern AI-powered financial management dashboard designed to help users track income, expenses, savings and debt in a smart and interactive way. The application combines modern SaaS-style UI design with AI-powered financial insights, analytics, PDF reporting and local AI chatbot assistance using Ollama.
+AI Finance Debt Assistant is a modern AI-powered financial management platform that helps users intelligently manage budgeting, expenses, savings and debt tracking through interactive analytics and AI-driven insights. The application combines a clean SaaS-inspired dashboard UI with smart financial visualization, PDF reporting and a local AI chatbot powered by Ollama for personalized financial assistance.
 
-Modern AI-powered Finance & Debt Management Dashboard built with:
+### Built With 
 
 * Streamlit
 * Python
@@ -10,37 +10,37 @@ Modern AI-powered Finance & Debt Management Dashboard built with:
 * Pandas
 * Ollama Local AI
 * ReportLab PDF Reports
-* Modern SaaS Dashboard UI
 * Interactive Analytics
+* Modern SaaS Dashboard UI
 * AI Financial Insights
 
 ---
 
-# Features
+# Features 
 
-* Smart Budget Tracking
-* Debt Payoff Planner
-* Monthly Expense Analysis
-* AI Financial Assistant
-* AI Finance Chatbot
-* Receipt Analysis with AI
+* Smart Budget & Expense Tracking
+* Debt Payoff Planning System
+* AI-Powered Financial Assistant
+* Interactive Finance Dashboard
+* AI Chatbot with Ollama
+* Receipt Analysis & Suggestions
 * Monthly Financial History
-* Animated Finance Charts
-* Savings Goal Tracker
-* Financial Health Score
-* PDF Financial Reports
+* Animated Finance Visualizations
+* Savings Goal Monitoring
+* Financial Health Scoring
+* Professional PDF Financial Reports
 * Income vs Expense Analytics
 * AI Financial Recommendations
-* Modern Dashboard UI
-* Responsive Design
-* Sidebar Finance Inputs
-* Beautiful Chart Visualizations
-* Local AI with Ollama
+* Responsive Modern UI
+* Glassmorphism Inspired Components
+* Beautiful Sidebar Input System
+* Interactive Charts & Insights
 * Modern AI Popup Assistant
-* Glassmorphism Inspired UI
-* Professional SaaS Style Design
+* SaaS-Style Dashboard Experience
+* Local AI Processing with Ollama
 
 ---
+
 
 
 # Live Demo 
